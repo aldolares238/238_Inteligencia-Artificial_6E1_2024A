@@ -6,6 +6,6 @@
 idea= "Ingenieria mecatronica"
 primer=10
 segundo=40
-res=primer+segundo
+resu=primer+segundo
 print(idea)
-print(res)
+print(resu)
