@@ -1,0 +1,11 @@
+#Nombre: Aldo Emiliano Chavez Lares
+#Registro: 21310238
+#Grupo: 6E1
+#Practica: 1_Variables - Guardar 3 datos en 3 variables distintas, un mensaje y dos digitos, mostrar el mensaje y la suma de ambos digitos
+
+idea= "Ingenieria mecatronica"
+primer=10
+segundo=40
+res=primer+segundo
+print(idea)
+print(res)
