@@ -1,11 +1,7 @@
 #Nombre: Aldo Emiliano Chavez Lares
 #Registro: 21310238
 #Grupo: 6E1
-#Practica: 2_Strings Hacer uso de comillas simples y dobles para almacenar mensajes, asi como mostrar lo requerido
+#Practica: 5_Salto Implementar en un solo string una lista de palabras, cada palabra debe tener su propia linea
 
-simple= 'Ella no quiere una flor ' #frase con comilla simple
-doble= "solo quiere que no la marchiten" #frase con comilla doble
-print(simple)
-print(doble)
-frase= '"print()" se utiliza para imprimir valores en la consola.' #frase asignada
-print(frase)
+#Se hace un print en el que entre cada palabra se da un salto de linea y una tabulacion para que el texto se muestre a manera de lista
+print("Lenguajes de programacion:\n\t-Python\n\t-JavaScript\n\t-Java\n\t-PHP\n\t-TypeScript\n\t-SQL\n\t-COBOL\n\t-HTML\n\t-CSS")
