@@ -3,6 +3,10 @@
 #Grupo: 6E1
 #Practica: 3_Concatenar Concatenar strings en diferentes variables
 
+#Concatenamos dos strings en una sola variable y mostramos el resultado
+prueba="Por ti, "+"haria lo que fuera por ti"
+print(prueba)
+
 #Declaro en 3 variables mi nombre, dos individuales y una con mis dos apellidos
 n1="ALDO "
 n2="EMILIANO "
@@ -12,4 +16,12 @@ r1='2131'
 r2='0238'
 com=n1+n2+n3
 reg=r1+r2
+#Se muestra la concatencion completa
 print(com,reg)
+
+#Jugamos con el concepto para terminar de comprender
+v1="Oye mami llevame a un lugar mejor"
+v2="\nDonde no haya oscuridad solo haya sol"
+v3="\nSe que puedes hacerlo porque tienes el don"
+can=v1+v2+"\nDonde no haga frio, solo haga calor"+v3
+print(can)
