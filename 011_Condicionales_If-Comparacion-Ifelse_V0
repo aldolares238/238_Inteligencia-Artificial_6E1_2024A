@@ -66,3 +66,19 @@ elif edad > 120:
 	print('¿Como sigues aqui?')
 else:	#Si ya no queda otra opcion o condicion, ahora si podemos escribir el 'else', ayudandonos a que si no se cumplio ninguna de nuestras condiciones anteriores, se ejecute cierta instruccion
 	print('Edad no válida.')
+
+#Otra manera de tener mas condiciones es encadenando multiples if sin la necesidad de ningun ese o elif:
+
+dato = (input('Introduce una letra de la palabra "love":\n'))
+
+if dato == 'l':
+    print('Is for the way you look at me')
+if dato == 'o':
+    print('Is for the only one I see')
+if dato == 'v':
+    print('Is very very, extraordinary')
+if dato == 'e':
+    print('Is even more than anyone that you adore can')
+
+
+	
