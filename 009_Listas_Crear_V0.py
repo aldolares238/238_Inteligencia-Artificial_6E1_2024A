@@ -15,8 +15,3 @@ prueba=["Aldo Lares",21310238,'Mecatronica'] #Dentro de la lista puse mis datos 
 #Se imprime la lista pero en formato vertical llamando a los datos solicitados
 print("Alumno: ",prueba[0],"\nCarrera: ",prueba[2],"\nRegistro: ",prueba[1]) #Vemos que se puede jugar con los tipos de dato, comillas y posicion en la lista
 
-
-
-
-
-
