@@ -56,14 +56,3 @@ col=[colores.pop(1),colores.pop(7)] #En esta sola linea creamos una nueva lista 
 print(colores)
 #Ahora imprimimos nuestra nueva lista con los dos elementos que quitamos previamente con el metodo pop:
 print(col)
-
-
-
-
-
-
-
-
-
-
-
