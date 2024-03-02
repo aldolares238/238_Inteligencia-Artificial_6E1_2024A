@@ -44,7 +44,3 @@ print("\nLa lista colores tiene un total de ",longitud," elementos")
 
 
 
-
-
-
-
