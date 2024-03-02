@@ -5,7 +5,7 @@
 
 simple= 'Ella no quiere una flor ' #frase con comilla simple
 doble= "solo quiere que no la marchiten" #frase con comilla doble
-print(simple)
-print(doble)
+print(simple) #Imprimo la primer variable
+print(doble) #Se imprime la segunda variable
 frase= '"print()" se utiliza para imprimir valores en la consola.' #frase asignada
-print(frase)
+print(frase) #Imprimimos una frase combinando los tipos de comilla
