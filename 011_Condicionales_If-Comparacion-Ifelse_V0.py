@@ -80,5 +80,3 @@ if dato == 'v':
 if dato == 'e':
     print('Is even more than anyone that you adore can')
 
-
-	
