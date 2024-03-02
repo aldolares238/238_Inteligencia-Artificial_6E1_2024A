@@ -34,9 +34,3 @@ tuplacol=tuple(listacol) #Utilizamos el metodo tuple para cambiar de lista a tup
 print(tuplacol) #Imprimimos la tupla observando el cambio
 print(type(tuplacol)) #Verificamos el tipo de dato
 
-
-
-
-
-
-
